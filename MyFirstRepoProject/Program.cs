@@ -21,6 +21,7 @@ namespace MyFirstRepoProject
 				.ConfigureWebHostDefaults(webBuilder =>
 				{
 					webBuilder.UseStartup<Startup>();
+					//Test comment
 				});
 	}
 }
